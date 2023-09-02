@@ -1,22 +1,23 @@
-<h1>Setting Up and Configuring a Vulnerability Management Home Lab</h1>
+<h1>Setting Up and Configuring an OpenVAS Vulnerability Management Home Lab</h1>
 
 <h2>Description</h2>
-For this Home Lab, we'll set up and configure Nessus Essentials to perform various vulnerability scans and remediation on Windows 10 Hosts, which we'll run via Oracle VirtualBox. The goal is to practice Vulnerability Management using Nessus, one of the most popular vulnerability scanners, implementing different functions and troubleshooting within the sandbox. The points to take are as follows:
+For this lab project, we'll set up and configure a secure Azure network with the OpenVAS Vulnerability Management Scanner and a client virtual machine. We'll make the client as vulnerable as possible for our scans. We'll then perform configurations and remediations accordingly. The goal is to practice Vulnerability Management using Azure's OpenVAS Vulnerability Management Scanner, implementing different functions and troubleshooting within the sandbox. The points to take are as follows:
 <br />
-- <b>Install and configure Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts</b> <br />
+- <b>Prepare Vulnerability Management Scanner and Client Virtual Machine in Azure</b> <br />
 - <b>Implement Vulnerability management Functions on virtual networks </b> <br />
-- <b>Conduct the vulnerability assessments using Nessus and remediate said vulnerabilities </b> <br />
+- <b>Conduct the vulnerability assessments (unauthenticated and credentialed) and remediate said vulnerabilities </b> <br />
 - <b>Develop automated remediation process that deals with vulnerabilities from Windows updates and third-party software.</b> <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Nessus Essentials</b> 
-- <b>Oracle Virtual Box</b>
+- <b>OpenVAS Vulnerability Management Scanner</b> 
 
 <h2>Environments Used </h2>
 
+- <b>Microsoft Azure</b>
 - <b>Windows 10 (21H2)</b>
+
 
 <h2>Program walk-through:</h2>
 
