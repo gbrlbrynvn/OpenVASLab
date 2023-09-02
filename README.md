@@ -1,7 +1,7 @@
 <h1>Setting Up and Configuring a Vulnerability Management Home Lab</h1>
 
 <h2>Description</h2>
-For this Home Lab, we'll set up and configure Nessus Essentials to perform various vulnerability scans and remediation on Windows 10 Hosts, which we'll also run via Virtualization. The goal is to practice Vulnerability Management using Nessus, one of the most popular vulnerability scanners, implementing different functions and troubleshooting within the sandbox. The points to take are as follows:
+For this Home Lab, we'll set up and configure Nessus Essentials to perform various vulnerability scans and remediation on Windows 10 Hosts, which we'll run via Oracle VirtualBox. The goal is to practice Vulnerability Management using Nessus, one of the most popular vulnerability scanners, implementing different functions and troubleshooting within the sandbox. The points to take are as follows:
 <br />
 - <b>Install and configure Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts</b> <br />
 - <b>Implement Vulnerability management Functions on virtual networks </b> <br />
